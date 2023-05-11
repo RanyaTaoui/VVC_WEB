@@ -36,10 +36,23 @@ function Info() {
                   <label>Email</label>
                   <input type="email" defaultValue={item.gmail}/><br/>
                   <button>test</button>
+
+              
                 </div>
+                
               ))}
             </form>
-          
+            <iframe src="/Home"
+ width="100%"
+ height="100%"
+ style={{ border: "0" }}
+ allowfullscreen=""
+ loading="lazy"
+ 
+>
+  
+
+</iframe>
         </div>
       );
       
